@@ -1,0 +1,41 @@
+.card-ctr {
+  height: 26rem;
+}
+img {
+  height: 200px;
+}
+#img-cart {
+  width: 80px;
+  height: 50px;
+  cursor: pointer;
+}
+i {
+  cursor: pointer;
+}
+
+body {
+  background-color: #1e2025;
+}
+
+.credit {
+  margin-top: 20px;
+  text-align: center;
+  width: auto;
+  padding: 10px;
+  border-radius: 10px;
+  height: 50pxt;
+  background-color: #fff;
+}
+
+.credit a {
+  text-decoration: none;
+}
+
+.credit a:hover {
+  color: #845EC2;
+}
+
+.credit i {
+  margin-left: 10px;
+  font-size: 25px;
+}
